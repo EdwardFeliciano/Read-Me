@@ -77,7 +77,7 @@
     
 </div>
 <div style="display: flex; justify-content: center; align-items: center; gap: 20px;">
-<img height="200" src="https://github.com/EdwardFeliciano/Read-Me/blob/main/Pr3to__Furious_Official_Music_Video.gif" />
+<img height="200" src="2Pr3to__Furious_Official_Music_Video.gif" />
 <img height="200" src="https://github.com/EdwardFeliciano/Read-Me/blob/main/2Pr3to__Furious_Official_Music_Video.gif" />
 <img height="200" src="https://github.com/EdwardFeliciano/Read-Me/blob/main/Screenshot%202025-11-04%20at%203.36.10%20PM.png" />
   <img height="200" src="https://github.com/EdwardFeliciano/Read-Me/blob/main/Screenshot%202025-11-04%20at%203.00.07%20PM.png" />
