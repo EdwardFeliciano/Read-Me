@@ -73,14 +73,12 @@
   <div style="display: flex; justify-content: center; align-items: center; gap: 20px;">
   <img height="200" src="https://github.com/EdwardFeliciano/Read-Me/blob/main/Screenshot%202024-12-25%20at%2010.57.46%20AM.png?raw=true" />
    <img height="200" src="https://github.com/EdwardFeliciano/Read-Me/blob/main/Screenshot%202024-12-25%20at%2011.08.50%20AM.png?raw=true" />
-  <img height="200" src="https://github.com/EdwardFeliciano/Read-Me/blob/main/Screenshot%202024-12-25%20at%2011.14.50%20AM.png?raw=true" />
-    
+  <img height="200" src="https://github.com/EdwardFeliciano/Read-Me/blob/main/Screenshot%202024-12-25%20at%2011.14.50%20AM.png?raw=true" />  
 </div>
 <div style="display: flex; justify-content: center; align-items: center; gap: 20px;">
   <img height="200" src="https://github.com/EdwardFeliciano/Read-Me/blob/main/2Pr3to__Furious_Official_Music_Video.gif?raw=true" />
   <img height="200" src="https://github.com/EdwardFeliciano/Read-Me/blob/main/Pr3to__Furious_Official_Music_Video.gif?raw=true" />
   <img height="200" src="https://github.com/EdwardFeliciano/Read-Me/blob/main/Screenshot%202025-11-04%20at%203.36.10%20PM.png?raw=true" />
-
   </div>
 <div style="display: flex; justify-content: center; align-items: center; gap: 20px;">
   <img height="200" src="https://github.com/EdwardFeliciano/Read-Me/blob/main/Screenshot%202025-11-04%20at%203.00.07%20PM.png?raw=true" />
