@@ -62,8 +62,8 @@
 <p align="left">
   - "Can't Talk I'm Creating" Podcast <br>
   - Production Assistant for Universal Music Group's LLC4 Music Video <br>
-  - Filming Behind-the-scenes for Busta Rhymes new album
-  - SHPE Trading Cards Photo Booth setup for Bank of America
+  - Filming Behind-the-scenes for Busta Rhymes new album <br>
+  - SHPE Trading Cards Photo Booth setup for Bank of America <br>
   - Doomsday NYC Music Video P.A. Credits
 </p>
 <div style="display: flex; justify-content: center; align-items: center; gap: 20px;">
